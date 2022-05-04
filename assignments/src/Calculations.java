@@ -27,5 +27,6 @@ public class Calculations {
         System.out.println(num + " * " + num2 + " = " + multiply);
         System.out.println(num + " / " + num2 + " = " + divide);
         System.out.println(num + " % " + num2 + " = " + remainder);
+        scanner.close();
     }
 }
